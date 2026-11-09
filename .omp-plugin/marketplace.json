@@ -1,0 +1,27 @@
+{
+  "name": "omp-zone-dividers",
+  "owner": {
+    "name": "wahaha1024",
+    "url": "https://github.com/wahaha1024"
+  },
+  "metadata": {
+    "description": "Zone dividers for omp transcripts: framed thinking rule and FINAL ANSWER marker",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "zone-dividers",
+      "source": "./",
+      "description": "Framed thinking divider and matching FINAL ANSWER marker for omp transcripts, with eight switchable styles",
+      "version": "1.0.0",
+      "author": {
+        "name": "wahaha1024"
+      },
+      "homepage": "https://github.com/wahaha1024/omp-zone-dividers",
+      "repository": "https://github.com/wahaha1024/omp-zone-dividers",
+      "license": "MIT",
+      "keywords": ["transcript", "thinking", "tui", "divider", "theme"],
+      "category": "ui"
+    }
+  ]
+}
